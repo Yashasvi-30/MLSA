@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "My Web Project - Learning Management System",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A Learning Management System that I built using HTML, CSS, and JavaScript , Node Js. It is a platform where students can learn and teachers can teach. It has features like login, register, view courses, and more.",
+    url: "https://github.com/Yashasvi-30/Learning-Management-System-",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Let Us C - My version",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Contributed to the Let Us C book by Yashavant Kanetkar. by solving the exercises and providing the solutions.",
+    url: "https://github.com/Yashasvi-30/LetUsC",
   },
   {
-    title: "My Resume Site",
+    title: "Amazon Clone",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Created an amazon clone using html css js .",
+    url: " https://yashasvi-30.github.io/AmazonClone/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Snake Game",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "The Famous Snake Game built using Python",
+    url: "https://github.com/Yashasvi-30/SnakeGame/",
   },
 ];
 
